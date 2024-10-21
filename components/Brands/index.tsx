@@ -51,7 +51,7 @@ const Brands = () => {
         <div className="-mx-4 flex flex-wrap">
           <div className="w-full px-4">
             <div
-              className="wow fadeInUp items-center justify-center rounded-md py-8 px-8 dark:bg-primary dark:bg-opacity-5 sm:px-10 md:px-[50px]"
+              className="wow fadeInUp items-center justify-center rounded-md py-8 px-8   sm:px-10 md:px-[50px]"
               data-wow-delay=".1s
               "
             >
@@ -113,7 +113,7 @@ const SingleBrand = ({ brand }: { brand: Brand }) => {
         href={href}
         target="_blank"
         rel="nofollow noreferrer"
-        className="w-full1111 relative h-28 opacity-70 grayscale transition hover:opacity-100 hover:grayscale-0 dark:opacity-60 dark:hover:opacity-100"
+        className="w-full1111 relative h-28 opacity-70 grayscale transition hover:opacity-100 hover:grayscale-0  "
       >
         <Image className=" object-contain" src={image} alt={name} fill />
       </a>

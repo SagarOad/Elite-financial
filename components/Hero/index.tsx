@@ -13,13 +13,13 @@ const Hero = () => {
           <div className="container">
             <div className="-mx-4 flex ">
               <div className=" px-4 md:w-4/6">
-                <h1 className="mb-5 text-3xl font-bold leading-tight text-primary dark:text-white sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight">
+                <h1 className="mb-5 text-3xl font-bold leading-tight text-primary  sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight">
                   Your Partners & Advisors are Here
                 </h1>
-                <h2 className="mb-5 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight md:text-4xl md:leading-tight">
+                <h2 className="mb-5 text-3xl font-bold leading-tight text-black  sm:text-4xl sm:leading-tight md:text-4xl md:leading-tight">
                   Going beyond NTN and Income Tax Filing
                 </h2>
-                <p className="mb-12 text-base font-medium !leading-relaxed text-body-color dark:text-white dark:opacity-90 sm:text-lg md:text-xl">
+                <p className="mb-12 text-base font-medium !leading-relaxed text-body-color   sm:text-lg md:text-xl">
                   Elite Financial now provides 360 solutions to all your
                   Business needs, including Business Incorporation and Trademark
                   Registration in Pakistan and USA.

@@ -24,7 +24,7 @@ const Contact = () => {
                     <input
                       type="text"
                       placeholder="Enter your name"
-                      className="w-full rounded-md border border-[#00000038] py-3 px-6 text-base text-body-color placeholder-body-color shadow-one outline-none focus:border-primary focus-visible:shadow-none dark:bg-[#242B51] dark:shadow-signUp"
+                      className="w-full rounded-md border border-[#00000038] py-3 px-6 text-base text-body-color placeholder-body-color shadow-one outline-none focus:border-primary focus-visible:shadow-none  "
                     />
                   </div>
                 </div>
@@ -33,7 +33,7 @@ const Contact = () => {
                     <input
                       type="text"
                       placeholder="Enter your phone number"
-                      className="w-full rounded-md border border-[#00000038] py-3 px-6 text-base text-body-color placeholder-body-color shadow-one outline-none focus:border-primary focus-visible:shadow-none dark:bg-[#242B51] dark:shadow-signUp"
+                      className="w-full rounded-md border border-[#00000038] py-3 px-6 text-base text-body-color placeholder-body-color shadow-one outline-none focus:border-primary focus-visible:shadow-none  "
                     />
                   </div>
                 </div>
@@ -43,7 +43,7 @@ const Contact = () => {
                       name="message"
                       rows={5}
                       placeholder="Enter your Message"
-                      className="w-full resize-none rounded-md border border-[#00000038] py-3 px-6 text-base text-body-color placeholder-body-color shadow-one outline-none focus:border-primary focus-visible:shadow-none dark:bg-[#242B51] dark:shadow-signUp"
+                      className="w-full resize-none rounded-md border border-[#00000038] py-3 px-6 text-base text-body-color placeholder-body-color shadow-one outline-none focus:border-primary focus-visible:shadow-none  "
                     ></textarea>
                   </div>
                 </div>

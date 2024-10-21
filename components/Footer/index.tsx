@@ -17,14 +17,14 @@ const Footer = () => {
                   <Image
                     src={logo}
                     alt="logo"
-                    className="w-full dark:hidden"
+                    className="w-full "
                     width={140}
                     height={30}
                   />
                   <Image
                     src="images/logo/logo.svg"
                     alt="logo"
-                    className="hidden w-full dark:block"
+                    className="hidden w-full "
                     width={140}
                     height={30}
                   />
@@ -97,7 +97,7 @@ const Footer = () => {
 
             <div className="w-full px-4 sm:w-1/2 md:w-1/2 lg:w-2/12 xl:w-2/12">
               <div className="mb-12 lg:mb-16">
-                <h2 className="mb-10 text-xl font-bold text-black dark:text-white">
+                <h2 className="mb-10 text-xl font-bold text-black ">
                   Useful Links
                 </h2>
                 <ul>
@@ -127,7 +127,7 @@ const Footer = () => {
 
             {/* <div className="w-full px-4 md:w-1/2 lg:w-4/12 xl:w-3/12">
               <div className="mb-12 lg:mb-16">
-                <h2 className="mb-10 text-xl font-bold text-black dark:text-white">
+                <h2 className="mb-10 text-xl font-bold text-black ">
                   Support & Help
                 </h2>
                 <ul>
@@ -156,7 +156,7 @@ const Footer = () => {
         </div>
         <div className="bg-primary/10 py-8">
           <div className="container">
-            <p className="text-center text-base text-body-color dark:text-white">
+            <p className="text-center text-base text-body-color ">
               All rights reserved Fame Business Solutions
             </p>
           </div>

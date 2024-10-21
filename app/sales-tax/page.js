@@ -19,10 +19,10 @@ const page = () => {
         <div className="container">
           <div className="-mx-4 flex ">
             <div className=" px-4 md:w-4/6">
-              <h2 className="mb-5 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight md:text-4xl md:leading-tight">
+              <h2 className="mb-5 text-3xl font-bold leading-tight text-black  sm:text-4xl sm:leading-tight md:text-4xl md:leading-tight">
                 PAKISTAN'S TRUSTED SALES TAX SOLUTIONS FOR YOUR BUSINESS
               </h2>
-              <p className="mb-12 text-base font-medium !leading-relaxed text-body-color dark:text-white dark:opacity-90 sm:text-lg md:text-xl">
+              <p className="mb-12 text-base font-medium !leading-relaxed text-body-color   sm:text-lg md:text-xl">
                 Streamline your operations by entrusting us with your GST and
                 PST registration, monthly sales tax filings, and compliance
                 notices. Let us handle the complexities of sales tax management,
